@@ -1,6 +1,3 @@
-![image](https://github.com/luis951/luis951/assets/15803308/cb37eee1-1f3a-4790-8853-a75194400628)
-
-
 Desenvolvedor e analista de dados, proficiente em Python, interessado em Rust
 
 <!--
