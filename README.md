@@ -1,4 +1,4 @@
-Desenvolvedor e analista de dados, proficiente em Python, interessado em Rust
+Desenvolvedor e cientista de dados, proficiente em Python, interessado em Rust
 
 <!--
 **luis951/luis951** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
